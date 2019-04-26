@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Про нас / About
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ви знаходитесь на сайті простих кулінарних рецептів переважно здорової їди.  
+Страви складаються з кількох компонентів.  
+Не знаєте, що робити з інгредієнтів у вашому холодильнику?  
+Можливо, ви знайдете що-небудь на Foodstructor :)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You are on the site of simple cooking recipes for mainly healthy eating.  
+The dishes consist of several components.  
+Do not know what to do with the ingredients in your fridge?  
+Maybe you will find something on the Foodstructor :)
