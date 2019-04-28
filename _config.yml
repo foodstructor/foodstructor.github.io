@@ -24,7 +24,7 @@ description_en: >-
   Simple food recipes. Dishes made up of a few components.
   Not sure what to make from the ingredients in your fridge?
   Maybe you will find something in Foodstructor :)
-baseurl: /
+# baseurl: '/'
 url: https://foodstructor.com
 author:
   name: foodstructor.com
